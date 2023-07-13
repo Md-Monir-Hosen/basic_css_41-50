@@ -1,0 +1,31 @@
+.num{  
+    list-style-type:decimal; 
+    list-style-position: inside; 
+    background-color: aqua;      
+  }  
+  .alpha{  
+        list-style-type:lower-alpha; 
+        list-style-position: outside; 
+        background-color: chartreuse;
+        
+  }  
+  .roman{  
+        list-style-type:lower-roman; 
+        list-style-position: inside;  
+        background-color: chocolate;
+  }  
+  .circle{  
+    list-style-type:circle;  
+    list-style-position: outside; 
+    background-color: crimson;
+  }  
+  .square{  
+    list-style-type:square;  
+    list-style-position: inside; 
+    background-color: darkgreen;
+  }  
+  .disc{  
+    list-style-type:disc;  
+    list-style-position: outside; 
+    background-color: gold;
+  }  

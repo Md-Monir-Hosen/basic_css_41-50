@@ -1,0 +1,29 @@
+h1 {   
+    color: red;   
+}   
+h2{  
+color: blue;  
+}         
+body {   
+    text-align: center;   
+}   
+ p{  
+  font-size: 30px;  
+  }  
+#p1 {   
+    
+    text-decoration: underline double green;      
+}   
+#p2 {   
+    
+    text-decoration: line-through dashed yellow;    
+}   
+#p3 {   
+  
+    text-decoration: dotted overline tomato;   
+}   
+#p4 {   
+   
+    text-decoration: rgb(126, 3, 3) wavy overline underline line-through blue;  
+     
+}   
